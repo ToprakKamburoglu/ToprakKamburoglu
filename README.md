@@ -1,7 +1,7 @@
 # 👋 Hello, I am Toprak Kamburoğlu
 3rd Year Computer Engineering Student At Kadir Has University
 
-[![Download My CV](https://img.shields.io/badge/Download%20My%20CV-%23A52A2A?style=for-the-badge&logo=download&logoColor=white)](https://www.canva.com/design/DAFwaJGuMFE/EnRJq5FpkmU9ZVV1OiwaWQ/view?utm_content=DAFwaJGuMFE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha6a60ea04b)
+[![Download My CV](https://img.shields.io/badge/Download%20My%20CV-%23A52A2A?style=for-the-badge&logo=download&logoColor=white)](https://github.com/kullanici-adi/repository-adi/blob/main/assets/cv.pdf)
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/toprakkamburoglu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toprak-kamburoğlu-627636293) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:toprakkamburoglu@gmail.com)
