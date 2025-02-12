@@ -1,5 +1,5 @@
 # 👋 Hello, I am Toprak Kamburoğlu
-# 3rd Year Computer Engineering Student At Kadir Has University
+3rd Year Computer Engineering Student At Kadir Has University
 
 [![Download My CV](https://img.shields.io/badge/Download%20My%20CV-%23A52A2A?style=for-the-badge&logo=download&logoColor=white)](https://www.canva.com/design/DAFwaJGuMFE/EnRJq5FpkmU9ZVV1OiwaWQ/view?utm_content=DAFwaJGuMFE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha6a60ea04b)
 
