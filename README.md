@@ -9,7 +9,7 @@
 
 ## Currently Learning
 
-[![React](https://img.shields.io/badge/React-%23FF0000.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/) [![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+[![React](https://img.shields.io/badge/React-%23FF0000.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)  [![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 
 
 # 💻 Technologies and Tools
