@@ -7,9 +7,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/toprakkamburoglu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toprak-kamburoğlu-627636293) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:toprakkamburoglu@gmail.com)
 
 
-## Currently Learning
+## 📚 Currently Learning
 
-[![React](https://img.shields.io/badge/React-%23FF0000.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)  [![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+[![React](https://img.shields.io/badge/React-%23FF0000.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)  
+[![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 
 
 # 💻 Technologies and Tools
