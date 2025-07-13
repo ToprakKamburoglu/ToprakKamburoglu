@@ -90,7 +90,7 @@ jobs:
 
           publish_dir: ./dist
 
-          publish_branch: output
+          publish_branch: main
 
           # Optionally, you can set a custom commit message
 
