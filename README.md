@@ -8,7 +8,7 @@
 
 ## 📚 Currently Learning
 
-[![React](https://img.shields.io/badge/React-%23FF0000.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)  [![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+[![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-%230078D7.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/aspnet/web-api/)
 
 
 ## 💻 Technologies and Tools
