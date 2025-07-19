@@ -8,7 +8,7 @@
 
 ## 📚 Currently Learning
 
-[![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-%230078D7.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/aspnet/web-api/)
+[![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-%23800080.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/aspnet/web-api/)
 
 
 ## 💻 Technologies and Tools
