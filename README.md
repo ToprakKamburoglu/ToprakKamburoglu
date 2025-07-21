@@ -3,7 +3,10 @@
 [![Download My CV](https://img.shields.io/badge/Download%20My%20CV-%23A52A2A?style=for-the-badge&logo=download&logoColor=white)](https://github.com/TOPRAKKAMBUROGLU2002/TOPRAKKAMBUROGLU2002/blob/main/Toprak%20Kamburo%C4%9Flu%20CV.pdf)
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/toprakkamburoglu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toprak-kamburoğlu-627636293) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:toprakkamburoglu@gmail.com)
+
+[![Instagram](https://img.shields.io/badge/Instagram-000000?logo=Instagram&logoColor=white)](https://instagram.com/toprakkamburoglu)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/toprak-kamburoğlu-627636293)  
+[![Email](https://img.shields.io/badge/Email-000000?logo=gmail&logoColor=white)](mailto:toprakkamburoglu@gmail.com)
 
 
 ## 📚 Currently Learning
