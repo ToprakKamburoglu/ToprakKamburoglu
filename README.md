@@ -8,7 +8,7 @@
 
 <div align="center">
   
-[![Download My CV](https://img.shields.io/badge/📄%20Download%20CV-A52A2A?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/TOPRAKKAMBUROGLU2002/TOPRAKKAMBUROGLU2002/blob/main/Toprak%20Kamburo%C4%9Flu%20CV.pdf)
+[![Download My CV](https://img.shields.io/badge/📄%20Download%20CV-A52A2A?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/ToprakKamburoglu/ToprakKamburoglu/blob/main/Toprak%20Kamburo%C4%9Flu%20CV.pdf)
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 [![Email Me](https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toprakkamburoglu@gmail.com)
 
@@ -120,14 +120,14 @@ I'm a passionate **Full-Stack Developer** and **Software Engineering Student** w
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TOPRAKKAMBUROGLU2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOPRAKKAMBUROGLU2002&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ToprakKamburoglu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToprakKamburoglu&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TOPRAKKAMBUROGLU2002&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ToprakKamburoglu&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
