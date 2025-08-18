@@ -3,7 +3,7 @@
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/toprakkamburoglu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toprak-kamburoğlu-627636293) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:toprakkamburoglu@gmail.com) 
 ## 📚 Currently Learning
-[![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-%23800080.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/aspnet/web-api/)
+[![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-%23800080.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/aspnet/web-api/) [![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the badge&logo=ollama&logoColor=white)](https://ollama.com/)
 ## 💻 Technologies and Tools
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
