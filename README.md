@@ -25,7 +25,7 @@
   </a>
 </p>
 
-## Programming Languages
+## 💻 Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,javascript,java,python,php&perline=10" alt="Programming Languages"/>
