@@ -51,6 +51,16 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="48" height="48" style="background-color: #242938; border-radius: 8px; padding: 4px;"/>
 </p>
 
+## 🗄️ Databases
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" alt="Databases"/>
+  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="48" height="48" style="background-color: #242938; border-radius: 8px; padding: 6px; margin-left: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Database" width="48" height="48" style="background-color: #242938; border-radius: 8px; padding: 6px; margin-left: 5px;"/>
+</p>
+
 ## 🛠️ Tools & Software
 <p align="left">
   <a href="https://skillicons.dev">
