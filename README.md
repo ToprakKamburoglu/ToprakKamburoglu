@@ -57,8 +57,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" alt="Databases"/>
   </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Database" width="48" height="48" style="background: #242938; border-radius: 8px; padding: 10px; margin-left: 5px; display: inline-block;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="48" height="48" style="box-shadow: 0 0 0 10px #242938; border-radius: 8px; margin-left: 5px;"/>
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="Microsoft SQL Server" width="48" height="48" style="margin-left: 5px;"/>
+  <img src="https://cdn.simpleicons.org/oracle/F80000" alt="Oracle Database" width="48" height="48" style="margin-left: 5px;"/>
 </p>
 
 ## 🛠️ Tools & Software
