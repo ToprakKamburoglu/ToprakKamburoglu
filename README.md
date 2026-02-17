@@ -21,7 +21,7 @@
 ## 📚 Currently Learning
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,nextjs,arduino,docker&perline=10" alt="Currently Learning"/>
+    <img src="https://skillicons.dev/icons?i=arduino,docker,aws,nextjs&perline=10" alt="Currently Learning"/>
   </a>
 </p>
 
@@ -29,8 +29,8 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,javascript,java,python,php&perline=10" alt="Programming Languages"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="40" height="40" style="background-color: #242938; margin-left:10px;"/>
   </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-plain.svg" alt="SQL" width="40" height="40" style="background-color: #22; padding: 30px; margin-left: 5px;"/>
 </p>
 
 ## 🚀 Web Frameworks & Technologies
@@ -48,25 +48,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Database" width="40" height="40" style="background-color:      
     #242938; border-radius: 8px; padding: 4px;"/>
     <img src="https://skillicons.dev/icons?i=sqlite&perline=10" alt="Databases"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="48" height="48" style="background-color: #242938; border-radius: 8px; padding: 4px;"/>
-</p>
-
-## 🗄️ Databases
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" alt="Databases"/>
-  </a>
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="Microsoft SQL Server" width="50" height="50" style="background-color: #242938; padding: 6px; border-radius: 4px; margin-left: 5px;"/>
-  <img src="https://www.logo.wine/a/logo/Oracle_Corporation/Oracle_Corporation-Logo.wine.svg" alt="Oracle" width="50" height="50" style="background-color: #242938; padding: 6px; border-radius: 4px; margin-left: 5px;"/>
 </p>
 
 ## 🛠️ Tools & Software
 <p align="left">
+   <img src="https://img.shields.io/badge/-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" height="60" width="60" style="margin-left:4px;"/>
+    <img src="https://img.shields.io/badge/-000000?style=flat&logo=ollama&logoColor=white" alt="Ollama" height="60" width="60" style="margin-left:4px;"/>
+    <img src="https://img.shields.io/badge/-183A61?style=flat&logo=virtualbox&logoColor=white" alt="VirtualBox" height="60" width="60" style="margin-left:4px;"/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=matlab,github,linux,vscode,visualstudio,qt,idea,pycharm,postman,git&perline=10" alt="Tools & Software"/>
-    <img src="https://img.shields.io/badge/-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" height="47" width="50" style="margin-left:4px;"/>
-    <img src="https://img.shields.io/badge/-000000?style=flat&logo=ollama&logoColor=white" alt="Ollama" height="48" width="50" style="margin-left:4px;"/>
-    <img src="https://img.shields.io/badge/-183A61?style=flat&logo=virtualbox&logoColor=white" alt="VirtualBox" height="48" width="50" style="margin-left:4px;"/>
   </a>
 </p>
