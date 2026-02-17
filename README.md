@@ -1,11 +1,11 @@
-👋 Hello, I am Toprak Kamburoğlu
+##👋 Hello, I am Toprak Kamburoğlu
 <p align="left">
   <a href="https://github.com/TOPRAKKAMBUROGLU2002/TOPRAKKAMBUROGLU2002/blob/main/Toprak%20Kamburo%C4%9Flu%20CV.pdf">
     <img src="https://img.shields.io/badge/📄_Download_My_CV-A52A2A?style=for-the-badge&logoColor=white" alt="Download CV"/>
   </a>
 </p>
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/toprak-kamburoğlu-627636293">
     <img src="https://skillicons.dev/icons?i=linkedin&perline=10" alt="LinkedIn"/>
@@ -18,14 +18,14 @@
   </a>
 </p>
 
-📚 Currently Learning
+## 📚 Currently Learning
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,nextjs,arduino,docker&perline=10" alt="Currently Learning"/>
   </a>
 </p>
 
-Programming Languages
+## Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,javascript,java,python,php&perline=10" alt="Programming Languages"/>
@@ -33,14 +33,14 @@ Programming Languages
   </a>
 </p>
 
-🚀 Web Frameworks & Technologies
+## 🚀 Web Frameworks & Technologies
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,bootstrap,typescript,fastapi,django,react,spring,vite,nodejs,tailwind&perline=10" alt="Frameworks & Technologies"/>
   </a>
 </p>
 
-🗄️ Databases
+## 🗄️ Databases
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql&perline=10" alt="Databases"/>
@@ -52,7 +52,7 @@ Programming Languages
   </a>
 </p>
 
-🛠️ Tools & Software
+## 🛠️ Tools & Software
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=matlab,github,linux,vscode,visualstudio,qt,idea,pycharm,postman,git&perline=10" alt="Tools & Software"/>
