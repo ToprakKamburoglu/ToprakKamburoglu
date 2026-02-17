@@ -46,7 +46,7 @@
     <img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=10" alt="Databases"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="40" height="40" style="background-color:#242938; border: 2px; border-radius: 8px; padding: 4px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Database" width="40" height="40" style="background-color:      
-    #242938; border: 2px; border-radius: 8px; padding: 4px;"/>
+    #242938; border-radius: 8px; padding: 4px;"/>
     <img src="https://skillicons.dev/icons?i=sqlite&perline=10" alt="Databases"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="48" height="48" style="background-color: #242938; border-radius: 8px; padding: 4px;"/>
 </p>
