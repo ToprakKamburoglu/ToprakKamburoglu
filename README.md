@@ -57,7 +57,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" alt="Databases"/>
   </a>
-  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle Database" width="48" height="48" style="margin-left: 5px;"/>
+  <img src="https://toppng.com/free-image/oracle-logo-PNG-free-PNG-Images_20537" alt="Oracle Database" width="48" height="48" style="margin-left: 5px;"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="48" height="48" style="margin-left: 5px;"/>
 </p>
 
