@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/toprak-kamburoğlu-627636293"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>&nbsp;
   <a href="https://instagram.com/toprakkamburoglu"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>&nbsp;
   <a href="mailto:toprakkamburoglu@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>&nbsp;
-   <a href="https://github.com/ToprakKamburoglu/ToprakKamburoglu/blob/main/Toprak%20Kamburo%C4%9Flu%20CV.pdf">
+  <a href="https://github.com/ToprakKamburoglu/ToprakKamburoglu/blob/main/Toprak%20Kamburo%C4%9Flu%20CV.pdf">
     <img src="https://img.shields.io/badge/CV-242938?style=flat&logo=googledocs&logoColor=white" alt="Download CV" width="102"/>
   </a>
 </p>
@@ -18,11 +18,9 @@
 
 ## 💻 Programming Languages
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,javascript,java,python,php&perline=10" alt="Programming Languages"/>
-  </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="50" height="40"/>
-</p> 
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,javascript,java,python,php" alt="Programming Languages"/>&nbsp;
+  <img src="https://img.shields.io/badge/SQL-242938?style=flat&logoColor=white" alt="SQL" width="77"/>
+</p>
 
 ## 🚀 Web Frameworks & Technologies
 <p align="left">
