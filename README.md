@@ -1,4 +1,4 @@
-##👋 Hello, I am Toprak Kamburoğlu
+## 👋 Hello, I am Toprak Kamburoğlu
 <p align="left">
   <a href="https://github.com/TOPRAKKAMBUROGLU2002/TOPRAKKAMBUROGLU2002/blob/main/Toprak%20Kamburo%C4%9Flu%20CV.pdf">
     <img src="https://img.shields.io/badge/📄_Download_My_CV-A52A2A?style=for-the-badge&logoColor=white" alt="Download CV"/>
