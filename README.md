@@ -29,7 +29,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,javascript,java,python,php&perline=10" alt="Programming Languages"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="40" height="40" style="background-color: #242938; border: 2px; border-radius: 8px; padding: 4px; margin-left:5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="40" height="40" style="background-color: #242938; border: 2px; border-radius: 8px; padding: 4px; margin-left:10px;"/>
   </a>
 </p>
 
@@ -43,8 +43,7 @@
 ## 🗄️ Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql&perline=10" alt="Databases"/>
-    <img src="https://skillicons.dev/icons?i=postgresql&perline=10" alt="Databases"/>
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=10" alt="Databases"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="40" height="40" style="background-color:#242938; border: 2px; border-radius: 8px; padding: 4px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Database" width="40" height="40" style="background-color:      
     #242938; border: 2px; border-radius: 8px; padding: 4px;"/>
