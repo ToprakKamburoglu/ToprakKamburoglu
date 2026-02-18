@@ -1,12 +1,16 @@
 ## 👋 Hello, I am Toprak Kamburoğlu
 
 <p align="left">
+  <a href="https://github.com/ToprakKamburoglu/ToprakKamburoglu/blob/main/Toprak%20Kamburo%C4%9Flu%20CV.pdf">
+    <img src="https://img.shields.io/badge/Download%20My%20CV-a52a2a?style=flat&logo=googledocs&logoColor=white" alt="Download CV" width="102"/>
+  </a>
+</p>
+
+## 🌐 Connect With Me
+<p align="left">
   <a href="https://www.linkedin.com/in/toprak-kamburoğlu-627636293"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>&nbsp;
   <a href="https://instagram.com/toprakkamburoglu"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>&nbsp;
   <a href="mailto:toprakkamburoglu@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>&nbsp;
-  <a href="https://github.com/ToprakKamburoglu/ToprakKamburoglu/blob/main/Toprak%20Kamburo%C4%9Flu%20CV.pdf">
-    <img src="https://img.shields.io/badge/CV-242938?style=flat&logo=googledocs&logoColor=white" alt="Download CV" width="102"/>
-  </a>
 </p>
 
 ## 📚 Currently Learning
@@ -19,7 +23,6 @@
 ## 💻 Programming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,javascript,java,python,php" alt="Programming Languages"/>&nbsp;
-  <img src="https://img.shields.io/badge/SQL-242938?style=flat&logoColor=white" alt="SQL" width="77"/>
 </p>
 
 ## 🚀 Web Frameworks & Technologies
