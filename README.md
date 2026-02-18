@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/ToprakKamburoglu/ToprakKamburoglu/blob/main/Toprak%20Kamburo%C4%9Flu%20CV.pdf">
-    <img src="https://img.shields.io/badge/Download%20My%20CV-a52a2a?style=flat&logo=googledocs&logoColor=white" alt="Download CV" width="102"/>
+    <img src="https://img.shields.io/badge/Download%20My%20CV-a52a2a?style=flat&logo=googledocs&logoColor=white" alt="Download CV" width="200"/>
   </a>
 </p>
 
