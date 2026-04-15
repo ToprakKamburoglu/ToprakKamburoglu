@@ -35,7 +35,7 @@
 ## 🗄️ Databases
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="50" height="50"/>
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&perline=10" alt="Databases"/>
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mssql&perline=10" alt="Databases"/>
 </p>
 
 ## 🛠️ Tools & Software
