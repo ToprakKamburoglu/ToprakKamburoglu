@@ -41,9 +41,6 @@
 
 ## 🛠️ Tools & Software
 <p align="left">
-    <img src="https://img.shields.io/badge/-1679A7?style=flat&logo=wireshark&logoColor=white" height="60" width="60"/>&nbsp;
-    <img src="https://img.shields.io/badge/-242938?style=flat&logo=ollama&logoColor=white" height="60" width="60"/>&nbsp;
-    <img src="https://img.shields.io/badge/-183A61?style=flat&logo=virtualbox&logoColor=white" height="60" width="60"/>&nbsp;
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=matlab,github,linux,vscode,visualstudio,qt,idea,pycharm,postman,git&perline=10" alt="Tools & Software"/>
   </a>
